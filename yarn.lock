@@ -1084,10 +1084,10 @@
     require_optional "^1.0.1"
     typeorm "^0.2.30"
 
-"@next/bundle-analyzer@^11.0.1":
-  version "11.0.1"
-  resolved "https://registry.yarnpkg.com/@next/bundle-analyzer/-/bundle-analyzer-11.0.1.tgz#6f5d617ae861346ac9bf6a1e7bd05444a7fedcc1"
-  integrity sha512-/+VqZsEu1Q19PlJyNrXJ0qNuYVH1ZiA9fz3G1tiTLdJmHHt4SeAqiBejHvuy8nkttGnHg7uUTdycvVujK0IcQQ==
+"@next/bundle-analyzer@^12.2.3":
+  version "12.2.3"
+  resolved "https://registry.yarnpkg.com/@next/bundle-analyzer/-/bundle-analyzer-12.2.3.tgz#8b4b934d28c09b9c11c4a074fbcc444402c8e017"
+  integrity sha512-tRgyo5afC02eofvnN9IerUvTJpxV+eQH4S02hc1U4oJJOhpHbwRinFUE3u4SNWbT5wSFofv1tnw5rYhyX7W8wQ==
   dependencies:
     webpack-bundle-analyzer "4.3.0"
 
